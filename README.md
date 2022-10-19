@@ -1,5 +1,5 @@
 The ptintf project is collaboration between Simiso Manqele and Palesa Mogale Alx software Engineering School Students
--
+
 If the program runs successfully, the return value is the amount of chars printed.
 
 
